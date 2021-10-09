@@ -1,4 +1,1 @@
-cccccc
-bbbbb
-fixed
-
+line local
